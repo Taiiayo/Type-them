@@ -1,0 +1,10 @@
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\bin\Debug\Type them!.exe.config
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\bin\Debug\Type them!.exe
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\bin\Debug\Type them!.pdb
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type them!.csprojResolveAssemblyReference.cache
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type_them_.Form1.resources
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type_them_.Properties.Resources.resources
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type them!.csproj.GenerateResource.cache
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type them!.csproj.CoreCompileInputs.cache
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type them!.exe
+C:\Users\Undermove\YandexDisk-shabalina.shabalinavaleriya\VS- Projects\Head First Examples\Type them!\Type them!\Type them!\obj\Debug\Type them!.pdb
